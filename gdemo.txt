@@ -1,2 +1,3 @@
 second rewrite
 line 2
+line 3
