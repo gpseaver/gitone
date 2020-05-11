@@ -3,4 +3,4 @@ line 2
 line 3
 line 4
 line5 
-edit before or after add 
+edit before and after add 
